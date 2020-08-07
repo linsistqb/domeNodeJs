@@ -1,0 +1,23 @@
+{
+  "name": "domenodejs",
+  "version": "1.0.0",
+  "description": "my first node.js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linsistqb/domeNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linsistqb/domeNodeJs/issues"
+  },
+  "homepage": "https://github.com/linsistqb/domeNodeJs#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
